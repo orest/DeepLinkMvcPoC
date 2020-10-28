@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "XLJ555DUD4.com.cardworks.poc.deeplink",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
+
