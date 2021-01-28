@@ -1,0 +1,10 @@
+[
+  {
+    "relation": [ "delegate_permission/common.handle_all_urls" ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ollocard.mobileapp.uat",
+      "sha256_cert_fingerprints": [ "BE:D5:18:D2:00:36:16:69:6D:18:4D:1B:D1:3F:C5:15:CF:D9:44:3A:F0:A9:E0:5E:B3:92:54:3E:B7:E7:98:5C" ]
+    }
+  }
+]
